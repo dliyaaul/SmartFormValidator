@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFormValidator", "SmartFormValidator\SmartFormValidator.csproj", "{D456C043-10A1-49C4-9912-2661E403FFC8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automata_Runtime_Naufal", "Automata_Runtime_Naufal\Automata_Runtime_Naufal.csproj", "{A6A83280-55E5-4978-A002-0F0BD3F10EB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{D456C043-10A1-49C4-9912-2661E403FFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D456C043-10A1-49C4-9912-2661E403FFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D456C043-10A1-49C4-9912-2661E403FFC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A6A83280-55E5-4978-A002-0F0BD3F10EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A6A83280-55E5-4978-A002-0F0BD3F10EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A6A83280-55E5-4978-A002-0F0BD3F10EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A6A83280-55E5-4978-A002-0F0BD3F10EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
