@@ -10,9 +10,6 @@ Projek UTS konstruksi SMS 4
 git clone https://github.com/dliyaaul/SmartFormValidator.git
 cd SmartFormValidator
 Buka folder proyek di Visual Studio.
-
-Oh yo nek wes melbu nk solution iku klik kanan -> add -> new project
-seng SmartFormValidator ojk diubah iku gon ku, awkmu nggae o dewe
 ```
 ### 2. Create Brach
 ```bash
