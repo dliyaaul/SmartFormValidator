@@ -1,0 +1,6 @@
+@API_Form_Validator_HostAddress = http://localhost:5140
+
+GET {{API_Form_Validator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

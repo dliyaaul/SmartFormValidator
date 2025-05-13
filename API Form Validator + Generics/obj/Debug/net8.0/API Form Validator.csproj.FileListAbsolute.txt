@@ -1,0 +1,36 @@
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\appsettings.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.staticwebassets.endpoints.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.exe
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.deps.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.runtimeconfig.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\API Form Validator.pdb
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.csproj.AssemblyReference.cache
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.AssemblyInfoInputs.cache
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.AssemblyInfo.cs
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.csproj.CoreCompileInputs.cache
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\scopedcss\bundle\API Form Validator.styles.css
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets\msbuild.API Form Validator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets\msbuild.API Form Validator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets\msbuild.build.API Form Validator.props
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Form Validator.props
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Form Validator.props
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form.279D7E19.Up2Date
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\refint\API Form Validator.dll
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.pdb
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\API Form Validator.genruntimeconfig.cache
+C:\Users\axioo\OneDrive\Desktop\Test Vscode Method\API Form Validator\obj\Debug\net8.0\ref\API Form Validator.dll
